@@ -1,2 +1,3 @@
 # hello-world
-my first project on react
+hello everybody
+I'm from Venezuela and I want to develop all kind of app
